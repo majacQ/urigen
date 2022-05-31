@@ -30,13 +30,13 @@ Update check time
 
 In memory database
 
-Table 1 – users
+Table 1 √ê users
 user id
 User name
 e-mail
 password
 
-Table 2 – Ontology preferences
+Table 2 √ê Ontology preferences
 Ontology Id
 Ontology uri
 Ontology name
@@ -45,7 +45,7 @@ Ontology physical uri
 Last checked
 MD5 checksum
 
-Table 3 –
+Table 3 √ê
 Ondology id
 User id
 Term uri
@@ -67,10 +67,10 @@ a.	Need to check against actual ontology?
 
 Objects/ Beans.
 
-UserBean – Represents a user. Should be able to add new users. Users are linked 
+UserBean √ê Represents a user. Should be able to add new users. Users are linked 
 to terms they requested. 
 
-NewEntityURIBean – Represents a new requested new URI object. Has mapping 
+NewEntityURIBean √ê Represents a new requested new URI object. Has mapping 
 information, user info and source ontology info. 
 
 
